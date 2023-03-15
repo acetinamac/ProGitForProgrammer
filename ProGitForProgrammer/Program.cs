@@ -2,4 +2,5 @@
 Console.WriteLine("Hello, World!");
 Console.WriteLine("I just added this in visual Studio");
 Console.WriteLine("I Just added this in the command line repo");
+Console.WriteLine("This line added to show the staging area");
 
