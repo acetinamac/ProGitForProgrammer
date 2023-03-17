@@ -1,7 +1,8 @@
 namespace ProGitForProgrammer;
 
 public class Calculator {
-    public int substractNumbers(int numberA, int numberB) {
-        return numberA - numberB;
-    } 
+    public int Add(int left, int right)
+    {
+        return left + right;
+    }
 }
